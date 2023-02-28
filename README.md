@@ -1,2 +1,2 @@
 # JavaCode
-https://iveaktermowly.github.io/JavaCode/
+https://iveaktermowly.github.io/Java/
